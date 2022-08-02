@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f69480f9.css",
-    "main.js": "/static/js/main.610ad707.js",
+    "main.js": "/static/js/main.129fe919.js",
     "static/js/508.45b77d80.chunk.js": "/static/js/508.45b77d80.chunk.js",
     "static/js/60.f4c36de7.chunk.js": "/static/js/60.f4c36de7.chunk.js",
     "static/js/399.6a10b75f.chunk.js": "/static/js/399.6a10b75f.chunk.js",
@@ -12,8 +12,14 @@
     "static/js/110.94ba0262.chunk.js": "/static/js/110.94ba0262.chunk.js",
     "static/media/50rdRiflePic.jpeg": "/static/media/50rdRiflePic.163b91c168a7ce2c011d.jpeg",
     "static/media/50RdPistolSetup.png": "/static/media/50RdPistolSetup.35d51c322c4f3e0be3e4.png",
+    "static/media/scramblerDrillSetup.png": "/static/media/scramblerDrillSetup.8e0d357d3a09dfd2d45e.png",
+    "static/media/twoHundredMeterAccelleratorSetup.png": "/static/media/twoHundredMeterAccelleratorSetup.97f11f46c9d239dd957a.png",
+    "static/media/twoHundredMeterMarksmanshipHome.jpeg": "/static/media/twoHundredMeterMarksmanshipHome.3ec6058d84f2dfaa6417.jpeg",
     "static/media/equipmentShakeOutHome.jpeg": "/static/media/equipmentShakeOutHome.528507e784f8432f81f6.jpeg",
+    "static/media/twoHundredMeterMarksmanshipSetup.png": "/static/media/twoHundredMeterMarksmanshipSetup.5b5833bcbdd3eee1cd42.png",
     "static/media/50RdPistolHome.jpeg": "/static/media/50RdPistolHome.3f25d4b7729df32c15ff.jpeg",
+    "static/media/scramblerDrillHome.jpeg": "/static/media/scramblerDrillHome.389fbcc06083c436d6f5.jpeg",
+    "static/media/twoHundredMeterAccelleratorHome.jpeg": "/static/media/twoHundredMeterAccelleratorHome.ab433f3b929d3f8360aa.jpeg",
     "static/media/equipmentShakeOutSetup.png": "/static/media/equipmentShakeOutSetup.17645bf1c7a8c526f94a.png",
     "static/media/fiftyMeterCarbineMarksmanshipSetup.png": "/static/media/fiftyMeterCarbineMarksmanshipSetup.fac2feb7868c57777396.png",
     "static/media/fiftyMeterCarbineMarksmanshipHome.jpeg": "/static/media/fiftyMeterCarbineMarksmanshipHome.a26bb117d09a2b745bc1.jpeg",
@@ -21,7 +27,7 @@
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
     "main.f69480f9.css.map": "/static/css/main.f69480f9.css.map",
-    "main.610ad707.js.map": "/static/js/main.610ad707.js.map",
+    "main.129fe919.js.map": "/static/js/main.129fe919.js.map",
     "508.45b77d80.chunk.js.map": "/static/js/508.45b77d80.chunk.js.map",
     "60.f4c36de7.chunk.js.map": "/static/js/60.f4c36de7.chunk.js.map",
     "399.6a10b75f.chunk.js.map": "/static/js/399.6a10b75f.chunk.js.map",
@@ -33,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.f69480f9.css",
-    "static/js/main.610ad707.js"
+    "static/js/main.129fe919.js"
   ]
 }
